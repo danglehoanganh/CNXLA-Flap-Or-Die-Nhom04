@@ -8,9 +8,9 @@
 
 
 <p align="center">
-  <img src="aiotlab_logo.png" alt="AIoT Lab" width="150"/>
-  <img src="fitdnu_logo.png" alt="FIT DNU" width="150"/>
-  <img src="dnu_logo.png" alt="Dai Nam University" width="150"/>
+  <img src="aiotlab_logo (1).png" alt="AIoT Lab" width="150"/>
+  <img src="fitdnu_logo (4).png" alt="FIT DNU" width="150"/>
+  <img src="dnu_logo (1).png" alt="Dai Nam University" width="150"/>
 </p>
 
 ---
